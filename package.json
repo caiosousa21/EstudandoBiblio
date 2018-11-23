@@ -1,0 +1,27 @@
+{
+  "name": "EstudandoBiblio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/webpack-numbers.js",
+  "module": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiosousa21/EstudandoBiblio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiosousa21/EstudandoBiblio/issues"
+  },
+  "homepage": "https://github.com/caiosousa21/EstudandoBiblio#readme",
+  "devDependencies": {
+    "lodash": "^4.17.11",
+    "webpack": "^4.26.0",
+    "webpack-cli": "^3.1.2"
+  }
+}
